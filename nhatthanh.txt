@@ -1,2 +1,7 @@
 hello
+<<<<<<< HEAD
 nhatthanh
+=======
+
+modified
+>>>>>>> 59f9f05d018d8440df5e18c04a5db98d23b9a5d1
